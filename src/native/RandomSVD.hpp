@@ -5,6 +5,10 @@
 //This is an implementation of the algorithm described in Halko 2011:
 //http://arxiv.org/pdf/0909.4061.pdf
 
+//This code is licensed under the GPL3.0 license. 
+//See https://www.gnu.org/licenses/gpl-3.0.en.html for details
+
+
 #pragma once
 
 #include "math.h"
