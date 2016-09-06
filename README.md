@@ -1,3 +1,7 @@
+**Note:** this is a fork of jeigen with some additional code to perform Randomised SVDs added. It is licensed under GPL3.0
+
+See https://github.com/hughperkins/jeigen for the official jeigen repository.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
