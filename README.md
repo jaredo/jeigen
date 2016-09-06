@@ -472,7 +472,7 @@ faster.  If it's O(n^2), then implementing it in native Java might be better.  F
 
 # License
 
-Jeigen is available under MPL v2 license, http://mozilla.org/MPL/2.0/
+This fork of Jeigen is available under GPL3.0 license. See https://www.gnu.org/licenses/gpl-3.0.en.html.
 
 # News
 
